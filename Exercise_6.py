@@ -1,0 +1,3 @@
+Story ="This is a story about a young boy who doesn't know what to do even though his age has increase but everything else is the same his mind is still not corroded by the virus of his past but yet the boy try to push through whatever it is he trying to do but i wonder why "
+Side_Characther = input("What you trying to say bruh ?")
+print(Story + " The END "+ "Word from author :\n {}".format(Side_Characther))
